@@ -1,5 +1,5 @@
 # phpMyAdmin - Web based MySQL browser written in php
-# 
+ 
 # Allows only localhost by default
 #
 # But allowing phpMyAdmin to anyone other than localhost should be considered
