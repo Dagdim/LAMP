@@ -1,6 +1,5 @@
 #!/usr/bin/env python2
 import os
-
 print("Launching Terminal User Interface")
 print("\t\tWELCOME TO INSTALL LAMP\t\t")
 print("\t-------------------------------------------------\t")
