@@ -1,1 +1,1 @@
-# LAMP Script for python2
+# LAMP Script for python2 and python3
