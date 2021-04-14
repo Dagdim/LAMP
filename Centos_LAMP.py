@@ -2,7 +2,6 @@
 # importing the module 
 import os
 import random
-
 print("Launching Terminal User Interface")
 print("\t\tWELCOME TO INSTALL LAMP\t\t")
 print("\t-------------------------------------------------\t")
